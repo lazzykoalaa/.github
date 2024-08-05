@@ -7,6 +7,7 @@ At **LazzyKoalaa**, we're dedicated to helping you keep your digital life organi
 - **Amazon Wishlists**
 - **Flipkart Wish Lists**
 - **YouTube Watch Later**
+- **Instagram Collections**
 
 We categorize and organize these URLs, making it easier for you to manage and access your favorite content from multiple platforms.
 
