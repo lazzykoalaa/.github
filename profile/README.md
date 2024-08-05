@@ -36,7 +36,8 @@ We're always looking for feedback and contributions! If you’re interested in h
 For any questions, suggestions, or support:
 
 - **Email:** [lazzykoalaa@gmail.com](mailto:lazzykoalaa@gmail.com)
-- **Twitter:** [@LazzyKoalaa](https://twitter.com/LazzyKoalaa)
+- **Instagram:** [lazzykoalaa](https://www.instagram.com/lazzykoalaa/)
+- **LinkedIn:** [lazzykoalaa](https://www.linkedin.com/company/lazzykoalaa)
 - **GitHub Issues:** [Submit an issue](https://github.com/lazzykoalaa)
 
 ### 🛠 Technologies Used
